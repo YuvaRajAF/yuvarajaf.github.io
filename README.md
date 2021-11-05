@@ -1,4 +1,4 @@
-# My Social Handler Website
+# My Social Handle Website
 
 Simple Website
 
